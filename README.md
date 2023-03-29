@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Ian</h1>
 <h3 align="center">A full-stack developer from London, making beautiful solutions.</h3>
 
-- 🔭 I’m currently working on **Frontend Mentor Challenges** to level up my design skills. You can find my work [here.](https://www.frontendmentor.io/profile/IanLuong)
+- 🔭 I’m currently working on **Frontend Mentor Challenges** to level up my design skills. You can find my work [here](https://www.frontendmentor.io/profile/IanLuong).
 
-- 🌱 I’m also learning **TypeScript and CI/CD with GitHub Actions.**
+- 🌱 I’m also learning **TypeScript and CI/CD with GitHub Actions**, on the [FullStackOpen Course](https://fullstackopen.com/en/).
 
 - 👨‍💻 All of my web projects are available at [https://ianluong.github.io](https://ianluong.github.io)
 
