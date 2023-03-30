@@ -5,9 +5,9 @@
 
 - 🌱 I’m also learning **TypeScript and CI/CD with GitHub Actions**, on the [FullStackOpen Course](https://fullstackopen.com/en/).
 
-- 👨‍💻 All of my web projects are available at [https://ianluong.github.io](https://ianluong.github.io)
+- 👨‍💻 All of my web projects are available at [https://ianluong.github.io](https://ianluong.github.io).
 
-- 📫 Reach out to me at **ianluongcodes@gmail.com**
+- 📫 Reach out to me at **ianluongcodes@gmail.com**.
 
 - ⚡ Fun fact about me: **I collect vinyl records as a hobby :)**
 
